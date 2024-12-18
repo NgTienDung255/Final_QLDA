@@ -1,0 +1,486 @@
+D:\BTL.NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\BTL.NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\BTL.NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\BTL.NET\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.FormChung.resources
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\BTL.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.FormChung.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Project.NET\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Project.NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+<<<<<<< HEAD
+D:\projectfinal\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\projectfinal\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\projectfinal\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\projectfinal\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+=======
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+>>>>>>> 727eed0c92c695b49fbbb49ce9d9a80a56d3f6ed
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Clone GitHub\C#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Làm lại NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Làm lại NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Làm lại NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Làm lại NET\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+C:\Users\PC\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+C:\Users\PC\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_TKBaocao.resources
+>>>>>>> 2cd803785f79eda834ec2614edcd6df9bd585485
+D:\Kì 2 Năm 3\C# code\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_TKBaocao.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_TKBaocao.resources
+>>>>>>> 21728e678a3e9bd35cf4d92cd880cfd4c33588b7
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\stdole.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Làm lại NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_TKBaocao.resources
+>>>>>>> 7049aa06a9c548c0c919387176fc2f1cc48d50e3
+D:\projectfinal\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_TKBaocao.resources
+C:\Users\PC\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\BTL NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\BTL NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\BTL NET\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\BTL NET\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+>>>>>>> aba5a2d8c8ab853c1de42298a9960e17804e010d
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\BTL NET\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+>>>>>>> 630e82e7ed31b46d1d7e2a32d81d2416c64e8b0d
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\banfinalC#\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+>>>>>>> addd0ea3b11b7847f96c512b84fd038aa6e442f1
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\banfinalC#\Project.Net\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+C:\Users\PC\suytfinal\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+C:\Users\PC\suytfinal\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Tài liệu học\.net\Project.Net\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\.net\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\Kì 2 Năm 3\C# code\Project.Net1\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Kì 2 Năm 3\C# code\Nhóm_06 (2)\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HoaDon.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Nhóm_06 phi nồ\Nhóm_06 phi nồ\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HOADON.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HOADON.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Tài liệu học\finalnet\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HOADON.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+C:\Users\PC\Desktop\QLDACNTT\fianalnet\Nhóm_06\Nhóm_06\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\System.IO.Packaging.dll
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\WarNov.ExcelReader.dll
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baocao.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Baotri.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Danhsachmay.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_HOADON.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_NhaCungCap.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.uC_Nhanvien.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_Phong.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.All_User_Control.UC_ThemThietBi.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.DangXuat.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.frmdangnhap.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Forms.ThueMay.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_.82AA44B0.Up2Date
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+C:\Users\PC\Desktop\QLDACNTT\final\QLDA\QLDA\Project.Net1\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
